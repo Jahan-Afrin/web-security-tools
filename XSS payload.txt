@@ -1,3 +1,0 @@
-Basic XSS payload
-<script>alert1()</script>
-<img src=x onerror=alert('XSS')>
